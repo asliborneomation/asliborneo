@@ -1,0 +1,19 @@
+﻿
+<html>
+	<head>
+		<title>getElementByID</title>
+	</head>
+	<body>
+	<p id="demo">Click The button to Change the text in this paragraph</p>
+	<button onclick="myFunction()">Try it</button>
+
+	<script>
+	function myFunction()
+	{
+	document.getElementById("demo").innerHTML = "Hello World";
+	}
+	</script>
+	</body>
+	</html>
+	</body>
+</html>
