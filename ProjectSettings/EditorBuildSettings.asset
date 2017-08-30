@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/userLogin.unity
+    guid: 0961d351dfabe2e46b5cad1ad59b1cab
+  - enabled: 1
+    path: Assets/asliborneo.unity
+    guid: 6012a6abfc38463448538364905cac6a
+  - enabled: 1
+    path: Assets/LoadingScene.unity
+    guid: ad2b78f55e82e744483d405d40169bc9
+  - enabled: 1
+    path: Assets/LoginScene.unity
+    guid: f96de5295aa18d546bd313274dcca1e2
+  - enabled: 0
+    path: Assets/Scenes/ThirdPersonControlOrbitCam.unity
+    guid: 1681e1d99bef9bd41b8b7ba26a703c56
+  - enabled: 0
+    path: Assets/asliborneo 08-29 02-52-11.unity
+    guid: 9659195d2b5a9494ea01a1a4d13accb4
+  - enabled: 0
+    path: Assets/asliborneo 08-29 02-50-42.unity
+    guid: 35891c15d8dce20419f7f17e1654d155
+  - enabled: 0
+    path: Assets/asliborneo 08-29 02-49-50.unity
+    guid: e23a35273745efc43a9473d53b9de591
